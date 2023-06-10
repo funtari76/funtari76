@@ -13,7 +13,7 @@
 <hr>
 
 ```
-
+Welcome to my GitHub profile! I'm a full-stack software developer skilled in HTML, CSS, JavaScript, Bootstrap, and Python. Currently, I'm actively developing projects in this repository. Join me on this journey of continuous development and innovation!
 
 ```
 ------------------
