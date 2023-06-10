@@ -35,13 +35,15 @@
 ## About me
 
 ````
-Hi and thanks for visiting..
-.......................................
-.............................
 
-......................................
-
-My goals are to.................
+Full-stack software developer with expertise in HTML, CSS, JavaScript, Bootstrap, and Python.
+Passionate about AI and machine learning, constantly seeking opportunities to merge technology and innovation.
+Let's collaborate and drive breakthroughs together!
+My future goals involve advancing my skills as a full-stack software developer, 
+specializing in HTML, CSS, JavaScript, Bootstrap, and Python. I am particularly focused on diving deeper 
+into the exciting realms of AI and machine learning. My aim is to contribute to cutting-edge projects and make a 
+positive impact by leveraging these technologies. 
+Let's strive for innovation and continuous growth together!
 
 ............................................
 
